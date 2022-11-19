@@ -1,5 +1,4 @@
-# LCT2022-front
-<h1>LCT 2022 Hackaton Task #3, Frontend part<h1>
+# LCT 2022 Hackaton Task #3, Frontend part
 This includes:
 <ul>
 <li>Interactive map with requests</li>
