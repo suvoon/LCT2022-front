@@ -1,0 +1,3362 @@
+[
+    {
+        "unique_id": "73407421",
+        "description": "в квартире заявителя",
+        "started_at": "2021-01-01T01:00:48",
+        "defect_id_id": "1822",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 3",
+            "latitude": 55.6180244,
+            "longitude": 37.69897865132184,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73407535",
+        "description": "Сильный засор в ванной , ванна полная воды.",
+        "started_at": "2021-01-01T10:27:37",
+        "defect_id_id": "1928",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Сумской проезд, дом 5, корпус 2",
+            "latitude": 55.6332401,
+            "longitude": 37.6081384,
+            "region_id": 619,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73407644",
+        "description": "С потолка в комнате через люстру.",
+        "started_at": "2021-01-01T01:25:36",
+        "defect_id_id": "4094",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Булатниковский проезд, дом 14, корпус 3",
+            "latitude": 55.5808086,
+            "longitude": 37.6578111,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73407663",
+        "description": "единственный, стоит на 1 этаже с открытыми дверями, на вызов не реагирует",
+        "started_at": "2021-01-03T14:55:22",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Даниловская набережная, дом 4, корпус 2",
+            "latitude": 55.7102559,
+            "longitude": 37.6380014,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73407830",
+        "description": "под ванной",
+        "started_at": "2021-01-01T02:21:52",
+        "defect_id_id": "2232",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кавказский бульвар, дом 27",
+            "latitude": 55.62937915,
+            "longitude": 37.66667102335437,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73407950",
+        "description": "сработал сигнал о вскрытии двери в эл. щитовую",
+        "started_at": "2021-01-01T01:56:26",
+        "defect_id_id": "1831",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 13, корпус 1",
+            "latitude": 55.57783215,
+            "longitude": 37.64568257420578,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73407953",
+        "description": "С потолка в комнате через люстру.",
+        "started_at": "2021-01-01T02:19:48",
+        "defect_id_id": "4094",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Булатниковский проезд, дом 14, корпус 3",
+            "latitude": 55.5808086,
+            "longitude": 37.6578111,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408008",
+        "description": "застревание в грузовом лифте",
+        "started_at": "2021-01-01T02:10:16",
+        "defect_id_id": "1771",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Гурьевский проезд, дом 11, корпус 1",
+            "latitude": 55.60182705,
+            "longitude": 37.74358255,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408080",
+        "description": "Отопления как не было, так и нет. Сколько это можно терпеть!? Мы встречаем Новый Год в куртках, а? Вы совсем страх потеряли и охренели? Не злите народ!!! Когда будет тепло в квартире?",
+        "started_at": "2021-01-01T09:12:18",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Днепропетровская улица, дом 5, корпус 4",
+            "latitude": 55.619316,
+            "longitude": 37.598239,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408179",
+        "description": "Засор",
+        "started_at": "2021-01-01T02:17:29",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Варшавское шоссе, дом 106",
+            "latitude": 55.64344665,
+            "longitude": 37.61874175,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408558",
+        "description": "В грузовом лифте 4 е детей и 2 взрослых",
+        "started_at": "2021-01-01T03:33:09",
+        "defect_id_id": "1771",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бирюлёвская улица, дом 58, корпус 3",
+            "latitude": 55.581038500000005,
+            "longitude": 37.66932667102493,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408606",
+        "description": "Течь в техническом шкафу сверху",
+        "started_at": "2021-01-01T04:15:23",
+        "defect_id_id": "2229",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 1",
+            "latitude": 55.6180277,
+            "longitude": 37.696998,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408623",
+        "description": "единственный стоит на 8 этаже стоит с открытыми дверями не реагирует на кнопку вызова",
+        "started_at": "2021-01-01T04:57:01",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Красного Маяка, дом 4, корпус 3",
+            "latitude": 55.6115203,
+            "longitude": 37.5996787,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408647",
+        "description": "течет сверху стояк ХВС",
+        "started_at": "2021-01-01T05:01:00",
+        "defect_id_id": "2229",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 42/30",
+            "latitude": 55.6195992,
+            "longitude": 37.7147866,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408650",
+        "description": "На чердаке какие-то люди, стоит грохот",
+        "started_at": "2021-01-01T04:53:24",
+        "defect_id_id": "2325",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Варшавское шоссе, дом 142, корпус 1",
+            "latitude": 55.60609325,
+            "longitude": 37.60671222723012,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408695",
+        "description": "с 3 этажа мусор застревает забит ковш переполнен",
+        "started_at": "2021-01-03T16:50:39",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Маршала Захарова, дом 10, корпус 2",
+            "latitude": 55.62430095,
+            "longitude": 37.70075733923077,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408709",
+        "description": "0",
+        "started_at": "2021-01-01T03:38:39",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кировоградская улица, дом 44, корпус 1",
+            "latitude": 55.5968805,
+            "longitude": 37.595908575344204,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408724",
+        "description": "Течь из вышерасположенной кв.№ 42",
+        "started_at": "2021-01-01T05:17:15",
+        "defect_id_id": "4093",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Криворожская улица, дом 29, корпус 2",
+            "latitude": 55.66988,
+            "longitude": 37.6081152,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408764",
+        "description": "0",
+        "started_at": "2021-01-01T08:55:12",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Борисовские Пруды, дом 18, корпус 1",
+            "latitude": 55.63794,
+            "longitude": 37.7491659,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408785",
+        "description": "вдоль всего дома очистить от наледи скользко посыпать реагентами",
+        "started_at": "2021-01-01T07:57:18",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Генерала Белова, дом 19, корпус 1",
+            "latitude": 55.6176885,
+            "longitude": 37.7195994,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408803",
+        "description": "из крана ГВС течет еле теплая вода",
+        "started_at": "2021-01-01T14:14:21",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Затонная улица, дом 2",
+            "latitude": 55.6805846,
+            "longitude": 37.682275413584556,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408813",
+        "description": "на всей территории скользко",
+        "started_at": "2021-01-03T14:50:33",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 10",
+            "latitude": 55.61538495,
+            "longitude": 37.70167553943931,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408836",
+        "description": "единственный  лифт нельзя вызвать не реагирует на кнопку вызова",
+        "started_at": "2021-01-03T14:50:32",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 15, корпус 4",
+            "latitude": 55.5749926,
+            "longitude": 37.6467726,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408883",
+        "description": "оба   лифта не реагирует на кнопку вызова нельзя вызвать",
+        "started_at": "2021-01-01T05:20:32",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кировоградский проезд, дом 3, корпус 2",
+            "latitude": 55.60372725,
+            "longitude": 37.595464298323535,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408914",
+        "description": "из крана ГВС течет еле теплая вода полотенцесушитель еле теплый",
+        "started_at": "2021-01-03T14:50:30",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Коломенская набережная, дом 14",
+            "latitude": 55.67810585,
+            "longitude": 37.702960706177144,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408962",
+        "description": "в обоих кранах холодная вода,именно в данное время,просьба принять меры.",
+        "started_at": "2021-01-03T14:50:27",
+        "defect_id_id": "2228",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Борисовский проезд, дом 46, корпус 1",
+            "latitude": 55.6141967,
+            "longitude": 37.72650873268668,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408980",
+        "description": "вдоль всего дома  и у входа в подъезд очистить от наледи скользко посыпать реагентами",
+        "started_at": "2021-01-01T04:31:32",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 3, корпус 1",
+            "latitude": 55.5037502,
+            "longitude": 36.924723634311775,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73408990",
+        "description": "из крана ГВС течет еле теплая вода полотенцесушитель еле теплый",
+        "started_at": "2021-01-03T14:50:26",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Коломенская улица, дом 15",
+            "latitude": 55.67906155,
+            "longitude": 37.69902763811339,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409010",
+        "description": "в квартире заявителя",
+        "started_at": "2021-01-01T05:05:19",
+        "defect_id_id": "1822",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 11, корпус 1",
+            "latitude": 55.579276750000005,
+            "longitude": 37.64640349452938,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409050",
+        "description": "Батареи ели теплые",
+        "started_at": "2021-01-01T09:15:54",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Днепропетровская улица, дом 5, корпус 4",
+            "latitude": 55.619316,
+            "longitude": 37.598239,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409109",
+        "description": "Каждый день с 00:30 до 7:00 нету горячей воды сколько это будет продолжаться",
+        "started_at": "2021-01-01T05:10:08",
+        "defect_id_id": "2228",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нагатинская улица, дом 22, корпус 2",
+            "latitude": 55.6771488,
+            "longitude": 37.654231979093765,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409124",
+        "description": "Каждый день с 00:30 до 7:00 нету горячей воды сколько это будет продолжаться",
+        "started_at": "2021-01-01T05:26:16",
+        "defect_id_id": "2228",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нагатинская набережная, дом 22, корпус 2",
+            "latitude": 55.6826285,
+            "longitude": 37.65661932608105,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409216",
+        "description": "не работает лифт",
+        "started_at": "2021-01-01T06:38:58",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 13, корпус 1",
+            "latitude": 55.57783215,
+            "longitude": 37.64568257420578,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409221",
+        "description": "упал бочек течь сильная.",
+        "started_at": "2021-01-03T15:50:33",
+        "defect_id_id": "2274",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Даниловская набережная, дом 2, корпус 4",
+            "latitude": 55.70828575,
+            "longitude": 37.64194667613795,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409276",
+        "description": "Лифт стоит на 9 этаже двери открыты  не возможно воспользоваться",
+        "started_at": "2021-01-01T10:21:58",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Чертановская улица, дом 51, корпус 3",
+            "latitude": 55.6030735,
+            "longitude": 37.5906354,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409389",
+        "description": "Течь капельная по стояку вода без запаха.",
+        "started_at": "2021-01-03T14:50:17",
+        "defect_id_id": "2229",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Каширский проезд, дом 9, корпус 3",
+            "latitude": 55.6594318,
+            "longitude": 37.6244845,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409430",
+        "description": "грузовой 6 или 7 этаж,скорая не требуется.",
+        "started_at": "2021-01-01T06:28:00",
+        "defect_id_id": "1771",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Загорьевская улица, дом 29",
+            "latitude": 55.58380755,
+            "longitude": 37.6969525,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409434",
+        "description": "из крана ГВС течет еле теплая вода ,полотенцесушитель еле теплый",
+        "started_at": "2021-01-03T14:50:16",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Домодедовская улица, дом 1, корпус 1",
+            "latitude": 55.6131895,
+            "longitude": 37.708967,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409438",
+        "description": "коридор  и в комнате по потолку и стенам",
+        "started_at": "2021-01-03T15:50:27",
+        "defect_id_id": "4094",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Днепропетровская улица, дом 39",
+            "latitude": 55.61529055,
+            "longitude": 37.59021017637902,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409521",
+        "description": "Между 11 и 12 этажом - засор.",
+        "started_at": "2021-01-01T08:22:36",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Серпуховский Вал, дом 13",
+            "latitude": 55.7111735,
+            "longitude": 37.6146092,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409526",
+        "description": "скользко, посыпать реагентами на всей территории.",
+        "started_at": "2021-01-01T09:56:11",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нагатинская набережная, дом 42, корпус 3",
+            "latitude": 55.685157450000005,
+            "longitude": 37.676413749999995,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409532",
+        "description": "Дорожка к крыльцу, крыльцо, очистить от наледи, скользко, посыпать реагентами упала девушка - сильный ушиб.",
+        "started_at": "2021-01-01T09:24:36",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Серпуховский Вал, дом 13",
+            "latitude": 55.7111735,
+            "longitude": 37.6146092,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409568",
+        "description": "во всей квартире не достаточно горячие.",
+        "started_at": "2021-01-01T09:55:22",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Чертановская улица, дом 21, корпус 1",
+            "latitude": 55.62058225,
+            "longitude": 37.59492074826722,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409685",
+        "description": "из крана ГВС течет  холодная вода полотенцесушитель холодный",
+        "started_at": "2021-01-01T13:10:24",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 10",
+            "latitude": 55.61538495,
+            "longitude": 37.70167553943931,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409720",
+        "description": "На всей территории скользко, посыпать реагентами.",
+        "started_at": "2021-01-03T14:45:45",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Липецкая улица, дом 12, корпус 2",
+            "latitude": 55.597918899999996,
+            "longitude": 37.66755245,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409721",
+        "description": "Грузовой лифт, слева, стоит на 12 этаже, с закрытыми дверями, не реагирует на кнопку вызова. Дежурная по подъезду.",
+        "started_at": "2021-01-01T10:57:54",
+        "defect_id_id": "1776",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нагатинская набережная, дом 54",
+            "latitude": 55.6884959,
+            "longitude": 37.6836455766621,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409762",
+        "description": "на 7 этаже забит мусор застревает",
+        "started_at": "2021-01-01T09:12:46",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Варшавское шоссе, дом 152, корпус 7",
+            "latitude": 55.5934481,
+            "longitude": 37.5995204,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409770",
+        "description": "на всей территории скользко, посыпать реагентами.",
+        "started_at": "2021-01-03T14:45:41",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Севастопольский проспект, дом 3, корпус 4",
+            "latitude": 55.6913632,
+            "longitude": 37.6145795,
+            "region_id": 610,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409840",
+        "description": "Единственный - стоит на 7 этаже с открытыми дверями.",
+        "started_at": "2021-01-01T11:18:00",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "проспект Андропова, дом 30",
+            "latitude": 55.6791993,
+            "longitude": 37.6625275,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73409886",
+        "description": "стояк ХВС с крана.",
+        "started_at": "2021-01-01T08:27:24",
+        "defect_id_id": "2229",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Братеевская улица, дом 27, корпус 1",
+            "latitude": 55.6339179,
+            "longitude": 37.75899401828187,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410013",
+        "description": "скользко, посыпать реагентами,на всей территории.",
+        "started_at": "2021-01-01T08:42:32",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Домодедовская улица, дом 17, корпус 1",
+            "latitude": 55.6080044,
+            "longitude": 37.71087760720508,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410050",
+        "description": "в комнате намок потолок, есть технический этаж и есть чердак.",
+        "started_at": "2021-01-01T14:03:47",
+        "defect_id_id": "2248",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Борисовские Пруды, дом 21, корпус 2",
+            "latitude": 55.63587505,
+            "longitude": 37.723166911377824,
+            "region_id": 612,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410058",
+        "description": "Место соединения гайки с трубой.",
+        "started_at": "2021-01-03T14:45:34",
+        "defect_id_id": "2164",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нахимовский проспект, дом 1, корпус 1",
+            "latitude": 55.6636107,
+            "longitude": 37.6056996,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410097",
+        "description": "Во всей квартире стояки и батареи холодные",
+        "started_at": "2021-01-03T14:45:32",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410138",
+        "description": "пассажирский",
+        "started_at": "2021-01-03T14:45:30",
+        "defect_id_id": "1776",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 22, корпус 2",
+            "latitude": 55.6418537,
+            "longitude": 37.66089937124296,
+            "region_id": 612,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410166",
+        "description": "Во всей квартире чуть теплые батареи",
+        "started_at": "2021-01-03T14:45:29",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бирюлёвская улица, дом 49, корпус 1",
+            "latitude": 55.5837758,
+            "longitude": 37.6724536,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410172",
+        "description": "В приквартирном холле на   6 этаже заменить  1 лампу(ы)",
+        "started_at": "2021-01-03T15:45:35",
+        "defect_id_id": "4328",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бирюлёвская улица, дом 56",
+            "latitude": 55.5829001,
+            "longitude": 37.66873856685304,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410237",
+        "description": "Вдоль всего дома_ очистить от наледи ,скользко посыпать ,реагентами.",
+        "started_at": "2021-01-01T08:09:57",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 14, корпус 2",
+            "latitude": 55.638123,
+            "longitude": 37.6688746,
+            "region_id": 612,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410240",
+        "description": "Дорожки тратуары на дворовой территори гололед и дорога к метро покрыта льдом",
+        "started_at": "2021-01-01T08:11:30",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кировоградская улица, дом 32, корпус 1",
+            "latitude": 55.6067497,
+            "longitude": 37.6007012,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410249",
+        "description": "у всех подъездов  крыльцо, ступеньки, дорожка к крыльцу очистить от наледи, скользко, посыпать реагентами.",
+        "started_at": "2021-01-01T08:12:00",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 14, корпус 2",
+            "latitude": 55.638123,
+            "longitude": 37.6688746,
+            "region_id": 612,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410259",
+        "description": "Гололед на тротуарах, необходимо посыпать реагентом.",
+        "started_at": "2021-01-01T08:31:42",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Дорожная улица, дом 7, корпус 2",
+            "latitude": 55.6007738,
+            "longitude": 37.6230567,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410281",
+        "description": "гололед при выходе из подъезда, очистить от наледи, посыпать реагентами",
+        "started_at": "2021-01-01T09:04:15",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Варшавское шоссе, дом 131, корпус 1",
+            "latitude": 55.60435255,
+            "longitude": 37.61543543914449,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410290",
+        "description": "По Варшавской идти к центру., Электрозаводская метро, электрозаводская улица. скользко посыпать реагентами",
+        "started_at": "2021-01-01T09:01:12",
+        "defect_id_id": "3394",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Академика Янгеля, дом 3",
+            "latitude": 55.5948055,
+            "longitude": 37.59535855,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410333",
+        "description": "Во всей квартире все батареи холодные",
+        "started_at": "2021-01-01T09:46:51",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410366",
+        "description": "Во всей квартире все батареи холодные.",
+        "started_at": "2021-01-01T09:46:51",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410402",
+        "description": "В коридоре в одной из маленьких комнатах и в большой комнате нет освещения и нет тока в розетках, во 2-ой маленькой комнате нет освещения розетки работают",
+        "started_at": "2021-01-03T15:45:32",
+        "defect_id_id": "2150",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 29, корпус 2",
+            "latitude": 55.6231657,
+            "longitude": 37.72511363663736,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410462",
+        "description": "Во всей квартире, все батареи холодные, стояк холодный.",
+        "started_at": "2021-01-03T14:45:32",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410464",
+        "description": "В комнате и кухне стояк и батареи холодные.",
+        "started_at": "2021-01-03T14:45:21",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ленинский проспект, дом 37",
+            "latitude": 55.710541,
+            "longitude": 37.5859608,
+            "region_id": 610,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410503",
+        "description": "Включить, надо.",
+        "started_at": "2021-01-03T15:45:29",
+        "defect_id_id": "2096",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кленовый бульвар, дом 15",
+            "latitude": 55.6787137,
+            "longitude": 37.68070497204819,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410507",
+        "description": "Из крана ХВС идет горячая вода, в унитазе тоже.",
+        "started_at": "2021-01-01T12:01:49",
+        "defect_id_id": "2198",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Россошанская улица, дом 6",
+            "latitude": 55.5925427,
+            "longitude": 37.6132899,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410538",
+        "description": "Пешеходные дорожки возле дома и от дома  к остановке необходимо прочистить от льда.",
+        "started_at": "2021-01-03T14:45:16",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Каспийская улица, дом 6",
+            "latitude": 55.63138625,
+            "longitude": 37.68234534107789,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410541",
+        "description": "Во всей квартире все батареи холодные, стояки холодные.",
+        "started_at": "2021-01-03T14:45:32",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410570",
+        "description": "Стояк ЦО батарея в квартире",
+        "started_at": "2021-01-01T10:03:34",
+        "defect_id_id": "4076",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 5, корпус 1",
+            "latitude": 55.50390785,
+            "longitude": 36.92434875,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410613",
+        "description": "Гололед на крыльце подъезда, пешеходных дорожках. Необходимо посыпать. Поручни во льду.",
+        "started_at": "2021-01-03T14:45:13",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Чертановская улица, дом 34, корпус 1",
+            "latitude": 55.6167107,
+            "longitude": 37.58857839567801,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410640",
+        "description": "Домофон не открывается с кода . ПросьБа принять меры",
+        "started_at": "2021-01-01T20:24:34",
+        "defect_id_id": "1760",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Газопровод, дом 13, корпус 3",
+            "latitude": 55.590192,
+            "longitude": 37.61132523372298,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410667",
+        "description": "все батареи и стояки чуть теплые, холодно.",
+        "started_at": "2021-01-03T14:40:44",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 17, корпус 1",
+            "latitude": 55.636303749999996,
+            "longitude": 37.66854466566433,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410766",
+        "description": "Стояк ГВС",
+        "started_at": "2021-01-01T10:21:39",
+        "defect_id_id": "2229",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нагатинская набережная, дом 48/2",
+            "latitude": 55.6833823,
+            "longitude": 37.639943,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410776",
+        "description": "необходимо убрать лед возле подъезда.",
+        "started_at": "2021-01-01T11:39:15",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Стасовой, дом 12",
+            "latitude": 55.71382055,
+            "longitude": 37.59801104638047,
+            "region_id": 610,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410797",
+        "description": "У подъездов_ ступеньки крыльцо дорожки к крыльцу и тротуар вдоль дома ОЧЕНЬ СКОЛЬЗКО НУЖНО очистить от наледи посыпать реагентами",
+        "started_at": "2021-01-01T08:52:32",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Днепропетровская улица, дом 1",
+            "latitude": 55.6212221,
+            "longitude": 37.60725779424577,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410808",
+        "description": "вдоль всего дома 16 корпус 3,2 очистить от наледи, скользко, посыпать реагентами",
+        "started_at": "2021-01-01T09:23:51",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Подольских Курсантов, дом 16, корпус 3",
+            "latitude": 55.6056715,
+            "longitude": 37.61982619255765,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410837",
+        "description": "Повторное обращение. Со слов заявителя дорожки, тратуары на дворовой территории гололед и дорога к метро покрыта льдом и в стонону лл. Чертановская д.45 все покрыто льдом.",
+        "started_at": "2021-01-01T08:55:11",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кировоградская улица, дом 32, корпус 1",
+            "latitude": 55.6067497,
+            "longitude": 37.6007012,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410867",
+        "description": "Во всем 3 подъезде необходима влажная уборка.",
+        "started_at": "2021-01-01T12:18:59",
+        "defect_id_id": "2393",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кировоградская улица, дом 32, корпус 1",
+            "latitude": 55.6067497,
+            "longitude": 37.6007012,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410885",
+        "description": "С 1 по 8 этаж и выше забит мусоропровод",
+        "started_at": "2021-01-01T09:30:47",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Болотниковская улица, дом 3, корпус 8",
+            "latitude": 55.6616409,
+            "longitude": 37.5932327,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410900",
+        "description": "подъезд  ступеньки крыльцо дорожка к крыльцу скользко очистить от наледи посыпать реагентами",
+        "started_at": "2021-01-03T14:40:37",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Пролетарский проспект, дом 17, корпус 1",
+            "latitude": 55.64180375,
+            "longitude": 37.65701183967849,
+            "region_id": 612,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410916",
+        "description": "В обоих кранах холодная вода - проблема постоянная.",
+        "started_at": "2021-01-03T14:40:37",
+        "defect_id_id": "2228",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Фруктовая улица, дом 5, корпус 1",
+            "latitude": 55.65854685,
+            "longitude": 37.61416472546453,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410974",
+        "description": "вдоль всех домов гололёд.",
+        "started_at": "2021-01-03T15:40:38",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Севастопольский проспект, дом 5, корпус 2",
+            "latitude": 55.65593355,
+            "longitude": 37.56678935,
+            "region_id": 610,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410976",
+        "description": "Во всей квартире все батареи холодные.",
+        "started_at": "2021-01-03T14:45:32",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73410979",
+        "description": "Стояк ХВС - подтекает в районе крана.",
+        "started_at": "2021-01-03T14:40:36",
+        "defect_id_id": "2229",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Чертановская улица, дом 42, корпус 1",
+            "latitude": 55.6111257,
+            "longitude": 37.58950842254712,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411009",
+        "description": "Сильная течь в тех. шкафу на стояке ХВС",
+        "started_at": "2021-01-01T10:41:54",
+        "defect_id_id": "2229",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 3, корпус 5",
+            "latitude": 55.5037502,
+            "longitude": 36.924723634311775,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411191",
+        "description": "Большая течь в ванной",
+        "started_at": "2021-01-03T14:40:28",
+        "defect_id_id": "1937",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кавказский бульвар, дом 37",
+            "latitude": 55.62664985,
+            "longitude": 37.65269725298741,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411194",
+        "description": "Невозможно выйти из подъезда. Каток и около подъезда и в сквере, на всей дворовой территории",
+        "started_at": "2021-01-03T14:40:27",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Алма-Атинская улица, дом 5",
+            "latitude": 55.6408974,
+            "longitude": 37.77036732399181,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411213",
+        "description": "Во всей квартире все батареи холодные",
+        "started_at": "2021-01-03T14:45:32",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411235",
+        "description": "Из крана ГВС течет еле теплая вода. полотенцесушитель холодный.",
+        "started_at": "2021-01-03T14:40:26",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловский проезд, дом 43, корпус 2",
+            "latitude": 55.611458999999996,
+            "longitude": 37.700455597315944,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411236",
+        "description": "в квартире заявителя,ком.квартира,но во всех комнатах нет эл-ва",
+        "started_at": "2021-01-03T14:40:25",
+        "defect_id_id": "1822",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Варшавское шоссе, дом 145, корпус 1",
+            "latitude": 55.5794194,
+            "longitude": 37.6028204,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411310",
+        "description": "Сплошной лёд около дома Проспект Андропова д 28!!!! Ничего не посвпано и это со вчерашнего дня! Лёд на всех дорожках включая детскую. Срочно надо все посыпать!",
+        "started_at": "2021-01-01T10:11:40",
+        "defect_id_id": "5947",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "проспект Андропова, дом 28",
+            "latitude": 55.6800586,
+            "longitude": 37.6626885,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411312",
+        "description": "из крана ГВС течет еле теплая ,вода, полотенцесушитель еле теплый",
+        "started_at": "2021-01-03T14:40:22",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Генерала Белова, дом 33/19",
+            "latitude": 55.602907,
+            "longitude": 37.7263512,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411377",
+        "description": "на 1 эт. разбита банка, необходимо убрать осколки и помыть полы",
+        "started_at": "2021-01-01T11:00:10",
+        "defect_id_id": "2393",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "проспект Андропова, дом 32/37",
+            "latitude": 55.656779,
+            "longitude": 37.6533212,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411391",
+        "description": "На кухне и двух комнатах,окна во двор все батареи холодные",
+        "started_at": "2021-01-03T14:40:18",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Чертановская улица, дом 21, корпус 3",
+            "latitude": 55.62058225,
+            "longitude": 37.59492074826722,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411398",
+        "description": "очень скользко у подъезде и на тротуаре, неолбходимо посыпать",
+        "started_at": "2021-01-01T10:12:01",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "проспект Андропова, дом 32/37",
+            "latitude": 55.656779,
+            "longitude": 37.6533212,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411426",
+        "description": "Вдоль всего дома скользко посыпать реагентами. и по дороге тоже",
+        "started_at": "2021-01-01T09:37:32",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ореховый бульвар, дом 5",
+            "latitude": 55.61024485,
+            "longitude": 37.70289366269168,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411433",
+        "description": "во всей квартире стояки еле теплые, батареи холодные",
+        "started_at": "2021-01-03T15:40:30",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411458",
+        "description": "Подвал заполнен полностью",
+        "started_at": "2021-01-03T14:40:15",
+        "defect_id_id": "1910",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Балаклавский проспект, дом 12, корпус 2",
+            "latitude": 55.641671,
+            "longitude": 37.607408,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411512",
+        "description": "Посыпать около подъезда реагентами очистить от наледи",
+        "started_at": "2021-01-03T14:40:13",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Булатниковский проезд, дом 14, корпус 1",
+            "latitude": 55.5808086,
+            "longitude": 37.6578111,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411597",
+        "description": "В кране ГВС нет горячей воды",
+        "started_at": "2021-01-01T14:11:10",
+        "defect_id_id": "2228",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Красного Маяка, дом 13А, корпус 5",
+            "latitude": 55.6124213,
+            "longitude": 37.5794986,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411669",
+        "description": "Гололед во дворе на тротуарах и пешеходных дорожках , посыпать реагентом.",
+        "started_at": "2021-01-01T11:12:47",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кировоградская улица, дом 4, корпус 3",
+            "latitude": 55.6216794,
+            "longitude": 37.6117104,
+            "region_id": 619,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411701",
+        "description": "течет по стояку сверху канализации с 9-го эт.",
+        "started_at": "2021-01-01T09:55:16",
+        "defect_id_id": "1939",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Братеевская улица, дом 27, корпус 1",
+            "latitude": 55.6339179,
+            "longitude": 37.75899401828187,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411720",
+        "description": "в обоих кранах горячая вода",
+        "started_at": "2021-01-01T11:14:22",
+        "defect_id_id": "2198",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бирюлёвская улица, дом 27",
+            "latitude": 55.592566399999995,
+            "longitude": 37.664947148484806,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411728",
+        "description": "Грязная вода поднимается в ванной.",
+        "started_at": "2021-01-03T14:35:43",
+        "defect_id_id": "2240",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 5, корпус 3",
+            "latitude": 55.50390785,
+            "longitude": 36.92434875,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411767",
+        "description": "вдоль всего дома_9 корпус 1 и у всех подьездов- очистить от наледи скользко посыпать реагентами",
+        "started_at": "2021-01-03T14:35:42",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Загородное шоссе, дом 9, корпус 1",
+            "latitude": 55.6928926,
+            "longitude": 37.6074485,
+            "region_id": 610,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411786",
+        "description": "Лед на ступеньках подъезда  придворовой территории, люди падают посыпать реагентами",
+        "started_at": "2021-01-03T15:35:36",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Каширское шоссе, дом 92, корпус 3",
+            "latitude": 55.6167918,
+            "longitude": 37.71215873487342,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411826",
+        "description": "вдоль всего дома_36 корпус 3 и возле всех подьездов очистить от наледи скользко посыпать реагентами",
+        "started_at": "2021-01-01T10:07:46",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Борисовский проезд, дом 36, корпус 3",
+            "latitude": 55.619022799999996,
+            "longitude": 37.72609845000001,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411866",
+        "description": "В районе Царицыно все дороги и тратуары очистить от наледи скользко посыпать реагентами",
+        "started_at": "2021-01-01T09:45:49",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кавказский бульвар, дом 35/2, корпус 3",
+            "latitude": 55.628085,
+            "longitude": 37.6571581,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411880",
+        "description": "между 4  и 5  этажами на пролете лестничной клетки заменить 1 лампу",
+        "started_at": "2021-01-01T10:56:37",
+        "defect_id_id": "4328",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Борисовский проезд, дом 36, корпус 3",
+            "latitude": 55.619022799999996,
+            "longitude": 37.72609845000001,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411943",
+        "description": "в комнате_ батарея холодная",
+        "started_at": "2021-01-04T15:20:45",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Домодедовская улица, дом 17, корпус 1",
+            "latitude": 55.6080044,
+            "longitude": 37.71087760720508,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73411968",
+        "description": "Повторное обращение. Вдоль всего дома  и у входа в подъезд очистить от наледи, посыпать реагентами.",
+        "started_at": "2021-01-01T09:50:36",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 3, корпус 1",
+            "latitude": 55.5037502,
+            "longitude": 36.924723634311775,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412025",
+        "description": "На 21 этаже, забит.",
+        "started_at": "2021-01-03T14:35:34",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Борисовские Пруды, дом 32",
+            "latitude": 55.64113685,
+            "longitude": 37.76259810170877,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412032",
+        "description": "Во всей квартире батареи были холодные, сейчас еле тёплые.",
+        "started_at": "2021-01-03T14:35:33",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412059",
+        "description": "Гололед на тротуарах, необходимо посыпать реагентом.",
+        "started_at": "2021-01-01T09:54:31",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Нагатинская набережная, дом 42, корпус 3",
+            "latitude": 55.685157450000005,
+            "longitude": 37.676413749999995,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412063",
+        "description": "лестница вся залита льдом и не возможно выйти из подъезда",
+        "started_at": "2021-01-01T09:52:54",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 25",
+            "latitude": 55.636161,
+            "longitude": 37.666052660812795,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412195",
+        "description": "Гололед, необходимо посыпать тротуары.",
+        "started_at": "2021-01-01T10:27:26",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 15, корпус 4",
+            "latitude": 55.5749926,
+            "longitude": 37.6467726,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412201",
+        "description": "маленький лифт стоит на 1 эт., двери открыты и не вызывается  на 4 эт.",
+        "started_at": "2021-01-01T12:32:29",
+        "defect_id_id": "1776",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Липецкая улица, дом 2/16",
+            "latitude": 55.5789173,
+            "longitude": 37.6848499,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412246",
+        "description": "Не закрывается дверь в технический шкаф",
+        "started_at": "2021-01-03T14:35:25",
+        "defect_id_id": "2425",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бирюлёвская улица, дом 27",
+            "latitude": 55.592566399999995,
+            "longitude": 37.664947148484806,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412275",
+        "description": "вдоль всего дома_36\\20 и вокруг очистить от наледи скользко посыпать реагентами у подьездов так же- очистить от наледи скользко посыпать реагентами",
+        "started_at": "2021-01-03T14:35:24",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Липецкая улица, дом 36/20",
+            "latitude": 55.5789173,
+            "longitude": 37.6848499,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412341",
+        "description": "ванная  течь из 223 кв",
+        "started_at": "2021-01-03T15:35:27",
+        "defect_id_id": "4093",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Чертановская улица, дом 54, корпус 2",
+            "latitude": 55.6033826,
+            "longitude": 37.5887971,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412345",
+        "description": "Просим срочно ликвидировать сильную протечку потолка квартиры на последнем этаже, возникающую третий раз за месяц. После двух заявок от 18 и 22 декабря 2020 года не было принято реальных правильных мер по устранению.",
+        "started_at": "2021-01-01T11:40:54",
+        "defect_id_id": "2283",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 39",
+            "latitude": 55.6373908,
+            "longitude": 37.661339244694446,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412359",
+        "description": "Вдоль всего дома 5 очистить от наледи скользко посыпать реагентами",
+        "started_at": "2021-01-01T10:25:38",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Сумской проезд, дом 5, корпус 1",
+            "latitude": 55.6332401,
+            "longitude": 37.6081384,
+            "region_id": 619,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412382",
+        "description": "кран ГВС кран ХВС отремонтировать, заменить, краны не приобретены/ кран букса нужна для ванной/",
+        "started_at": "2021-01-03T14:30:49",
+        "defect_id_id": "2220",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Бехтерева, дом 25/49",
+            "latitude": 55.6279959,
+            "longitude": 37.6475612,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412402",
+        "description": "Повесить на дом флаг",
+        "started_at": "2021-01-01T10:25:16",
+        "defect_id_id": "1960",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Сумской проезд, дом 5, корпус 1",
+            "latitude": 55.6332401,
+            "longitude": 37.6081384,
+            "region_id": 619,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412438",
+        "description": "Из крана ГВС течет еле теплая вода",
+        "started_at": "2021-01-01T12:52:32",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловский проезд, дом 59, корпус 2",
+            "latitude": 55.60436055,
+            "longitude": 37.70926552877178,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412490",
+        "description": "В туалете течет",
+        "started_at": "2021-01-03T15:35:25",
+        "defect_id_id": "4094",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Восточная улица, дом 1, корпус 1",
+            "latitude": 55.714468749999995,
+            "longitude": 37.657881285456654,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412514",
+        "description": "При выходе из подъезда  необходимо посыпать реагентами . Очень скользко.",
+        "started_at": "2021-01-03T14:35:12",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Днепропетровская улица, дом 17",
+            "latitude": 55.6234787,
+            "longitude": 37.5895665,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412535",
+        "description": "На 2 этаже.",
+        "started_at": "2021-01-01T10:57:54",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нагатинская набережная, дом 34",
+            "latitude": 55.6852066,
+            "longitude": 37.6708602,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412587",
+        "description": "Гололед на тротуаре около дома и на дороге ведущей к улице Высокой. Ходить невозможно.",
+        "started_at": "2021-01-01T10:27:28",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нагатинская улица, дом 25",
+            "latitude": 55.678696,
+            "longitude": 37.65159643808386,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412599",
+        "description": "Нет горячей воды",
+        "started_at": "2021-01-02T09:41:04",
+        "defect_id_id": "2228",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Михневский проезд, дом 6",
+            "latitude": 55.576683450000004,
+            "longitude": 37.668317472658224,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412610",
+        "description": "вдоль всего дома - и входная группа всех подьездов очистить от наледи посыпать реагентами",
+        "started_at": "2021-01-03T14:30:41",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Загорьевский проезд, дом 7, корпус 2",
+            "latitude": 55.574132000000006,
+            "longitude": 37.666364622193676,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412662",
+        "description": "Во всем дворе посыпать реагентами пешеходные дорожки.",
+        "started_at": "2021-01-01T10:39:59",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Пересветов переулок, дом 6",
+            "latitude": 55.71380015,
+            "longitude": 37.66129697829784,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73412863",
+        "description": "Единственный стоит с открытыми дверями на 1_этаже. Не реагирует на кнопку вызова с остальных этажей.",
+        "started_at": "2021-01-01T11:25:54",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Мусы Джалиля, дом 38, корпус 2",
+            "latitude": 55.6171598,
+            "longitude": 37.7437221,
+            "region_id": 611,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413004",
+        "description": "На 17_этаже и ниже забит.",
+        "started_at": "2021-01-03T14:30:19",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Гурьевский проезд, дом 17, корпус 1",
+            "latitude": 55.606603500000006,
+            "longitude": 37.750127957560764,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413010",
+        "description": "Отсутствует отопление в дальней комнате, которая граничит с 16 подъездом. Остальные батареи в квартире еле тёплые.",
+        "started_at": "2021-01-01T12:57:08",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Днепропетровская улица, дом 5, корпус 4",
+            "latitude": 55.619316,
+            "longitude": 37.598239,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413041",
+        "description": "Не работает кнопка выхода, из подъезда не выйти.",
+        "started_at": "2021-01-01T10:47:23",
+        "defect_id_id": "1760",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Каспийская улица, дом 20, корпус 2",
+            "latitude": 55.62591785,
+            "longitude": 37.67526786840141,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413079",
+        "description": "Не работают все розетки, на кухне работают, освещение есть.",
+        "started_at": "2021-01-03T14:25:48",
+        "defect_id_id": "2150",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Медиков, дом 13",
+            "latitude": 55.6335797,
+            "longitude": 37.682497262422984,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413086",
+        "description": "сломан замок металлическая",
+        "started_at": "2021-01-03T15:30:28",
+        "defect_id_id": "2423",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Медынская улица, дом 5, корпус 6",
+            "latitude": 55.5905623,
+            "longitude": 37.6473824,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413107",
+        "description": "Из крана ГВС течет еле теплая вода",
+        "started_at": "2021-01-01T11:50:12",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Домодедовская улица, дом 7, корпус 2",
+            "latitude": 55.6131895,
+            "longitude": 37.708967,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413127",
+        "description": "В маленькой  комнате батарея холодная, стояк холодный.",
+        "started_at": "2021-01-03T14:30:12",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кантемировская улица, дом 14, корпус 2",
+            "latitude": 55.638123,
+            "longitude": 37.6688746,
+            "region_id": 612,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413209",
+        "description": "Гололёд у подъездов дома, на тротуарах и проезжей дворовой территории",
+        "started_at": "2021-01-01T10:58:59",
+        "defect_id_id": "3394",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Каширское шоссе, дом 13, корпус 1",
+            "latitude": 55.6672775,
+            "longitude": 37.6324345,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413237",
+        "description": "В ванной не сходит вода .",
+        "started_at": "2021-01-01T12:26:19",
+        "defect_id_id": "2240",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Нагатинская набережная, дом 62, корпус 2",
+            "latitude": 55.69018765,
+            "longitude": 37.69021145388003,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413251",
+        "description": "Гололёд у 3го подъезда",
+        "started_at": "2021-01-01T10:58:50",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Каширское шоссе, дом 13, корпус 1",
+            "latitude": 55.6672775,
+            "longitude": 37.6324345,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413266",
+        "description": "На 4 этаже мусор застревает забит",
+        "started_at": "2021-01-03T14:25:42",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Липецкая улица, дом 22, корпус 1",
+            "latitude": 55.59308535,
+            "longitude": 37.67190727931919,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413285",
+        "description": "Во 2 подъезде из подвала запах канализации.",
+        "started_at": "2021-01-03T14:25:41",
+        "defect_id_id": "1924",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Загорьевский проезд, дом 15",
+            "latitude": 55.57746645,
+            "longitude": 37.68134725,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413297",
+        "description": "Посыпать противололедными реагентами",
+        "started_at": "2021-01-01T10:58:42",
+        "defect_id_id": "5947",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Каширское шоссе, дом 13, корпус 1",
+            "latitude": 55.6672775,
+            "longitude": 37.6324345,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413309",
+        "description": "Нет отопления в нашей квартире уже вторые сутки и на каком основании закрываются мои заявки, если нет тепла и отопления в квартире. Что то пошуршало в батареях и батареи остались холодные. И не надо писать, что отопительные приборы согласно отопительному сезону. Они не работают, они холодные. Температура в квартире 16 градусов. Это ниже нормы на 2 градуса. Все зафиксировано. Приходите и потрогайте наши батареи. Они холодные. Все уже в соплях и кашляют. Это невозможно. Когда будет тепло и батареи горячие?",
+        "started_at": "2021-01-01T12:57:29",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Днепропетровская улица, дом 5, корпус 4",
+            "latitude": 55.619316,
+            "longitude": 37.598239,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413515",
+        "description": "Заявка № 00000635/21 от 01.01.202x xx:14 Прогрелся стояк, стал теплым, а батарея осталась холодной",
+        "started_at": "2021-01-01T13:53:16",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Лебедянская улица, дом 22, корпус 1",
+            "latitude": 55.585174050000006,
+            "longitude": 37.68593651047069,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413559",
+        "description": "в обоих кранах горячая вода",
+        "started_at": "2021-01-03T14:25:32",
+        "defect_id_id": "2198",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Каширское шоссе, дом 86, корпус 2",
+            "latitude": 55.6208175,
+            "longitude": 37.7101958,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413755",
+        "description": "Во всем дворе посыпать тротуары, гололед.",
+        "started_at": "2021-01-01T11:02:51",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 15, корпус 4",
+            "latitude": 55.5749926,
+            "longitude": 37.6467726,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413791",
+        "description": "На 9_этаже забит.",
+        "started_at": "2021-01-01T12:29:39",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 12",
+            "latitude": 55.617324749999995,
+            "longitude": 37.702911921527075,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413825",
+        "description": "Подъезд 1 ,крыльцо  посыпать реагентами",
+        "started_at": "2021-01-01T10:41:55",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Ялтинская улица, дом 7, корпус 2",
+            "latitude": 55.647471499999995,
+            "longitude": 37.61066165,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413864",
+        "description": "Поверка счётчика горячей воды",
+        "started_at": "2021-01-01T11:02:35",
+        "defect_id_id": "3963",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ясеневая улица, дом 23, корпус 1",
+            "latitude": 55.60505259999999,
+            "longitude": 37.732133897571785,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413865",
+        "description": "Все дорожки у дома посыпать реагентами.",
+        "started_at": "2021-01-01T10:42:15",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Ялтинская улица, дом 7, корпус 2",
+            "latitude": 55.647471499999995,
+            "longitude": 37.61066165,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413875",
+        "description": "Забит на 1 этаже",
+        "started_at": "2021-01-03T14:25:17",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Даниловская набережная, дом 4, корпус 2",
+            "latitude": 55.7102559,
+            "longitude": 37.6380014,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413889",
+        "description": "0",
+        "started_at": "2021-01-01T12:12:50",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кавказский бульвар, дом 22",
+            "latitude": 55.630146800000006,
+            "longitude": 37.66352263430842,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413900",
+        "description": "Жители просят очистить от наледи дорожки. Житель  чуть не упал.",
+        "started_at": "2021-01-01T11:00:54",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Воронежская улица, дом 22, корпус 2",
+            "latitude": 55.60994615,
+            "longitude": 37.734943256835564,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413906",
+        "description": "На 22_этаже забит мусоропровод",
+        "started_at": "2021-01-01T11:44:05",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кировоградская улица, дом 22",
+            "latitude": 55.61525365,
+            "longitude": 37.6046885,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73413965",
+        "description": "Единственный лифт не работает",
+        "started_at": "2021-01-03T14:25:14",
+        "defect_id_id": "1777",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Даниловская набережная, дом 4, корпус 2",
+            "latitude": 55.7102559,
+            "longitude": 37.6380014,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414049",
+        "description": "Не спускает воду, вода в квартире есть.",
+        "started_at": "2021-01-03T14:25:12",
+        "defect_id_id": "1610",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Воронежская улица, дом 44, корпус 1",
+            "latitude": 55.6102167,
+            "longitude": 37.7478952,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414060",
+        "description": "Засор до 4 этажа мусоропровода",
+        "started_at": "2021-01-03T14:20:45",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Севастопольский проспект, дом 5, корпус 3",
+            "latitude": 55.65593355,
+            "longitude": 37.56678935,
+            "region_id": 610,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414097",
+        "description": "В комнате потолок течет по люстре, течь с кровли.",
+        "started_at": "2021-01-01T11:08:39",
+        "defect_id_id": "4094",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ясеневая улица, дом 28",
+            "latitude": 55.603456050000005,
+            "longitude": 37.738757737018375,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414106",
+        "description": "Под ванной из стены появляется вода",
+        "started_at": "2021-01-01T11:47:22",
+        "defect_id_id": "2232",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бирюлёвская улица, дом 47, корпус 1",
+            "latitude": 55.5840173,
+            "longitude": 37.670047284514055,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414195",
+        "description": "В комнате потолок течет по люстре, течь с кровли. Акт на основании заявки 00001559/21",
+        "started_at": "2021-01-01T12:55:46",
+        "defect_id_id": "2098",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ясеневая улица, дом 28",
+            "latitude": 55.603456050000005,
+            "longitude": 37.738757737018375,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414225",
+        "description": "Во всех кранах горячая вода и в туалете.",
+        "started_at": "2021-01-03T15:25:23",
+        "defect_id_id": "2198",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бирюлёвская улица, дом 31, корпус 2",
+            "latitude": 55.591615000000004,
+            "longitude": 37.66448894781186,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414234",
+        "description": "У 3 подъезда шатаются стойки перил",
+        "started_at": "2021-01-01T11:31:08",
+        "defect_id_id": "2438",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Россошанский проезд, дом 2, корпус 3",
+            "latitude": 55.596383349999996,
+            "longitude": 37.60504338419871,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414253",
+        "description": "подъезд 2  дорожка к крыльцу очистить от наледи посыпать реагентами",
+        "started_at": "2021-01-03T14:20:40",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Новинки, дом 25",
+            "latitude": 55.67767335,
+            "longitude": 37.675427518620346,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414312",
+        "description": "во всем подъезде помыть пол на площадке мусоропровода, в лифтовом холле.",
+        "started_at": "2021-01-01T13:22:37",
+        "defect_id_id": "2393",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кустанайская улица, дом 9, корпус 1",
+            "latitude": 55.6175621,
+            "longitude": 37.75488523708427,
+            "region_id": 611,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414350",
+        "description": "Вдоль всего дома гололед",
+        "started_at": "2021-01-01T11:24:49",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Затонная улица, дом 5, корпус 4",
+            "latitude": 55.681606599999995,
+            "longitude": 37.686898825756714,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414353",
+        "description": "Отсутствие отопления",
+        "started_at": "2021-01-01T12:56:48",
+        "defect_id_id": "2297",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Днепропетровская улица, дом 5, корпус 4",
+            "latitude": 55.619316,
+            "longitude": 37.598239,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414358",
+        "description": "пассажирский единственный внешние двери лифта - стены -зеркало -поручни-плафоны- пол -кнопочная панель помыть.",
+        "started_at": "2021-01-01T13:23:08",
+        "defect_id_id": "2332",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Кустанайская улица, дом 9, корпус 1",
+            "latitude": 55.6175621,
+            "longitude": 37.75488523708427,
+            "region_id": 611,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414398",
+        "description": "Ступеньки скользко посыпать реагентами",
+        "started_at": "2021-01-01T11:24:02",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Восточная улица, дом 11, корпус 1",
+            "latitude": 55.5267973,
+            "longitude": 37.312504018288884,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414495",
+        "description": "Напротив 3 подъезда контейнеры  переполнен, убрать на контейнерной площадке.",
+        "started_at": "2021-01-01T11:03:13",
+        "defect_id_id": "2294",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Домодедовская улица, дом 22, корпус 1",
+            "latitude": 55.61160255,
+            "longitude": 37.70694387479996,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414509",
+        "description": "на 11.12.13 этаже забит",
+        "started_at": "2021-01-01T12:10:17",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Борисовские Пруды, дом 18, корпус 1",
+            "latitude": 55.63794,
+            "longitude": 37.7491659,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414538",
+        "description": "В квартире заявителя",
+        "started_at": "2021-01-01T11:26:52",
+        "defect_id_id": "1822",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ореховый проезд, дом 37, корпус 1",
+            "latitude": 55.6176572,
+            "longitude": 37.73036513297452,
+            "region_id": 611,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414612",
+        "description": "Возле подъезда убрать скадирование мусора",
+        "started_at": "2021-01-01T12:04:06",
+        "defect_id_id": "2242",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бакинская улица, дом 25, корпус 2",
+            "latitude": 55.6185274,
+            "longitude": 37.658658232126434,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414713",
+        "description": "течь струйкой .  место сварки место соединения с трубой",
+        "started_at": "2021-01-03T14:20:15",
+        "defect_id_id": "2164",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Чертановская улица, дом 51, корпус 6",
+            "latitude": 55.6030735,
+            "longitude": 37.5906354,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414715",
+        "description": "грузовой лифт медленно ездит, при нажатии кнопки приказа быстро закрывает двери",
+        "started_at": "2021-01-01T12:06:06",
+        "defect_id_id": "13159",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бакинская улица, дом 25, корпус 2",
+            "latitude": 55.6185274,
+            "longitude": 37.658658232126434,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414747",
+        "description": "из крана ГВС течет еле теплая вода",
+        "started_at": "2021-01-01T13:10:02",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 10",
+            "latitude": 55.61538495,
+            "longitude": 37.70167553943931,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414759",
+        "description": "грузовой лифт быстро закрывает двери",
+        "started_at": "2021-01-01T12:06:58",
+        "defect_id_id": "13160",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Бакинская улица, дом 25, корпус 2",
+            "latitude": 55.6185274,
+            "longitude": 37.658658232126434,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414774",
+        "description": "Перед подъездом и на прилегающей к дому асфальтированной территории ледяной каток и очень скользко",
+        "started_at": "2021-01-01T11:05:48",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Ереванская улица, дом 26, корпус 1",
+            "latitude": 55.62806245,
+            "longitude": 37.676965114576625,
+            "region_id": 618,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414822",
+        "description": "вдоль всего дома_21 и у всех подьездов очистить от наледи скользко посыпать реагентами",
+        "started_at": "2021-01-03T14:20:08",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Павловская улица, дом 21",
+            "latitude": 55.7175618,
+            "longitude": 37.628114593426815,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414825",
+        "description": "Засор на 2 этаже",
+        "started_at": "2021-01-01T13:02:31",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Даниловская набережная, дом 2, корпус 4",
+            "latitude": 55.70828575,
+            "longitude": 37.64194667613795,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414849",
+        "description": "засор до 3 эт.",
+        "started_at": "2021-01-03T14:15:42",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Малая Тульская улица, дом 2/1, корпус 5",
+            "latitude": 55.70990035,
+            "longitude": 37.61537128812287,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414858",
+        "description": "Непрерывно льется из бачка. Вода перекрыта.",
+        "started_at": "2021-01-03T14:20:07",
+        "defect_id_id": "1610",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Затонная улица, дом 5, корпус 2",
+            "latitude": 55.681606599999995,
+            "longitude": 37.686898825756714,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414944",
+        "description": "в кране ХВС нет воды",
+        "started_at": "2021-01-01T11:58:52",
+        "defect_id_id": "2197",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Россошанская улица, дом 4, корпус 1",
+            "latitude": 55.592793,
+            "longitude": 37.609437456941926,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414954",
+        "description": "В комнате в районе люстры течь",
+        "started_at": "2021-01-01T12:48:57",
+        "defect_id_id": "2283",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ясеневая улица, дом 28",
+            "latitude": 55.603456050000005,
+            "longitude": 37.738757737018375,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414958",
+        "description": "из крана ГВС течет еле теплая вода",
+        "started_at": "2021-01-03T14:15:37",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Криворожская улица, дом 15",
+            "latitude": 55.66716595,
+            "longitude": 37.614009207733574,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73414966",
+        "description": "при выходе из подъезда очень скользко, необходимо посыпать",
+        "started_at": "2021-01-01T11:37:15",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Шаболовка, дом 65, корпус 2",
+            "latitude": 55.71305275,
+            "longitude": 37.60749627757572,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415025",
+        "description": "демонтировать питьевой кран",
+        "started_at": "2021-01-01T11:58:13",
+        "defect_id_id": "1622",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Россошанская улица, дом 4, корпус 1",
+            "latitude": 55.592793,
+            "longitude": 37.609437456941926,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415045",
+        "description": "на 7 этаже опять сломан ковш, забито мусором.",
+        "started_at": "2021-01-01T14:02:05",
+        "defect_id_id": "2107",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Липецкая улица, дом 16/14",
+            "latitude": 55.5789173,
+            "longitude": 37.6848499,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415092",
+        "description": "Очень скользкий выход из подъезда, люди падают, просьба срочно почистить перед  подъездом",
+        "started_at": "2021-01-01T11:46:10",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Павловская улица, дом 21",
+            "latitude": 55.7175618,
+            "longitude": 37.628114593426815,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415099",
+        "description": "Между_3 и_4 этажами забит.",
+        "started_at": "2021-01-03T15:15:35",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Трофимова, дом 8А",
+            "latitude": 55.7024471,
+            "longitude": 37.6653602,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415122",
+        "description": "У подъезда ступени, тротуар и проезжая часть во льду!! Ходить не возможно, упала дважды!! И не чистится ничего с 6 утра и до сего момениа!!",
+        "started_at": "2021-01-01T12:21:26",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Воронежская улица, дом 20, корпус 1",
+            "latitude": 55.610084,
+            "longitude": 37.734043852255226,
+            "region_id": 617,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415133",
+        "description": "На 1 этаже.",
+        "started_at": "2021-01-03T14:15:30",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Дорожная улица, дом 23, корпус 2",
+            "latitude": 55.51210295,
+            "longitude": 37.2650303235536,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415158",
+        "description": "на 7 этаже не работает ковш- не открывается",
+        "started_at": "2021-01-03T15:20:22",
+        "defect_id_id": "2107",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Красного Маяка, дом 4, корпус 3",
+            "latitude": 55.6115203,
+            "longitude": 37.5996787,
+            "region_id": 620,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415188",
+        "description": "Холодный полотенцесушитель",
+        "started_at": "2021-01-03T15:15:34",
+        "defect_id_id": "2159",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Варшавское шоссе, дом 55, корпус 2",
+            "latitude": 55.6767215,
+            "longitude": 37.62930710258179,
+            "region_id": 613,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415193",
+        "description": "Течет кран ГВС над ванной. Течь в районе соединения крана со стеной.",
+        "started_at": "2021-01-01T11:51:36",
+        "defect_id_id": "2262",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Дербеневская набережная, дом 13/17, корпус 1",
+            "latitude": 55.717464,
+            "longitude": 37.64745,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415198",
+        "description": "Из крана ГВС идёт холодная вода и на кухне и в ванной.",
+        "started_at": "2021-01-01T12:46:52",
+        "defect_id_id": "2228",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Варшавское шоссе, дом 75, корпус 1",
+            "latitude": 55.658591,
+            "longitude": 37.620267,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415278",
+        "description": "в туалете у сливного бачка течь гибкой подводки",
+        "started_at": "2021-01-03T15:15:33",
+        "defect_id_id": "2231",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Шипиловская улица, дом 10",
+            "latitude": 55.61538495,
+            "longitude": 37.70167553943931,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415285",
+        "description": "Ванная",
+        "started_at": "2021-01-01T16:46:39",
+        "defect_id_id": "4094",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Затонная улица, дом 10, корпус 1",
+            "latitude": 55.677772000000004,
+            "longitude": 37.6848344517092,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415306",
+        "description": "Скользко, посыпать реагентами.",
+        "started_at": "2021-01-03T15:15:30",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Борисовские Пруды, дом 20, корпус 2",
+            "latitude": 55.6382059,
+            "longitude": 37.751549,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415337",
+        "description": "вдоль всего дома 16 корпус 3,2 очистить от наледи, скользко, посыпать реагентами. За домом гололёд",
+        "started_at": "2021-01-01T13:27:11",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Подольских Курсантов, дом 16, корпус 3",
+            "latitude": 55.6056715,
+            "longitude": 37.61982619255765,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415365",
+        "description": "На  4 этаже забит",
+        "started_at": "2021-01-03T15:15:30",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Липецкая улица, дом 22, корпус 1",
+            "latitude": 55.59308535,
+            "longitude": 37.67190727931919,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415381",
+        "description": "На 2 этаже забит, прочистить и убрать на площадке.",
+        "started_at": "2021-01-03T14:15:22",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Чертановская улица, дом 64, корпус 2",
+            "latitude": 55.5990231,
+            "longitude": 37.58290958195807,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415401",
+        "description": "Гололед на тротуарах необходимо  посыпать реагентом.",
+        "started_at": "2021-01-03T14:15:21",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "2-й Павловский переулок, дом 20",
+            "latitude": 55.717374,
+            "longitude": 37.6317573,
+            "region_id": 609,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415463",
+        "description": "Во всей квартире батареи еле теплые",
+        "started_at": "2021-01-03T16:15:33",
+        "defect_id_id": "1718",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Касимовская улица, дом 41",
+            "latitude": 55.5912989,
+            "longitude": 37.66180539999996,
+            "region_id": 606,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415481",
+        "description": "Невозможно выйти из подъезда. Посыпаны дорожки все, но за метр до подъезда каток! И ступеньки и спуск покрыты льдом. Даже у собаки лапы разъезжались. Есть фото и видео если нужно",
+        "started_at": "2021-01-01T11:56:15",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Борисовские Пруды, дом 18, корпус 1",
+            "latitude": 55.63794,
+            "longitude": 37.7491659,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415526",
+        "description": "Засор на 4 этаже, вываливается мусор",
+        "started_at": "2021-01-01T11:40:49",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Симферопольский бульвар, дом 37, корпус 1",
+            "latitude": 55.6427628,
+            "longitude": 37.6062501,
+            "region_id": 615,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415555",
+        "description": "Лед на дорожках вдоль всего дома.Около 2,3 корпус.",
+        "started_at": "2021-01-01T12:17:05",
+        "defect_id_id": "3392",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Дорожная улица, дом 7, корпус 1",
+            "latitude": 55.6007738,
+            "longitude": 37.6230567,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415558",
+        "description": "На 6 эт. засор мусоропровода.",
+        "started_at": "2021-01-03T14:15:15",
+        "defect_id_id": "2234",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "улица Маршала Захарова, дом 19",
+            "latitude": 55.6209293,
+            "longitude": 37.69955720204433,
+            "region_id": 616,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415573",
+        "description": "На тротуарах лёд , д3 к2 и д7 к2 Перед и за домами",
+        "started_at": "2021-01-01T14:24:29",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Судостроительная улица, дом 3, корпус 2",
+            "latitude": 55.682116750000006,
+            "longitude": 37.687753150604244,
+            "region_id": 614,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415607",
+        "description": "в квартире заявителя Нет электричества . Не работает дверной звонок и не работает домофон просьба стучать в дверь",
+        "started_at": "2021-01-01T13:04:37",
+        "defect_id_id": "1822",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ореховый бульвар, дом 37, корпус 1",
+            "latitude": 55.615330549999996,
+            "longitude": 37.73671212961747,
+            "region_id": 611,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415611",
+        "description": "В маленькой комнате нет тока в розетках есть освещение",
+        "started_at": "2021-01-03T15:15:27",
+        "defect_id_id": "2150",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Ключевая улица, дом 8, корпус 2",
+            "latitude": 55.6371094,
+            "longitude": 37.75850076669866,
+            "region_id": 608,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415617",
+        "description": "Полная катастрофа!!!! Каток на входах в подъезд на тротуарах на межквартальных дорогах. Выйти из подъезда не возможно!!!",
+        "started_at": "2021-01-01T11:26:44",
+        "defect_id_id": "2203",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 3, корпус 1",
+            "latitude": 55.5755542,
+            "longitude": 37.6450471,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415665",
+        "description": "Нигде в нашем микрорайоне не обработано реагентом. Везде каток идти не возможно!!!",
+        "started_at": "2021-01-01T11:28:33",
+        "defect_id_id": "5947",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 3, корпус 1",
+            "latitude": 55.5755542,
+            "longitude": 37.6450471,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415670",
+        "description": "Просит почистить каток.Находится рядом с домом Востряковский проезд 1  корпус 2",
+        "started_at": "2021-01-01T11:27:38",
+        "defect_id_id": "2264",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Медынская улица, дом 8, корпус 2",
+            "latitude": 55.5911931,
+            "longitude": 37.6435983,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415686",
+        "description": "Изз крана ГВС течет еле теплая вода полотенцесушитель холодный",
+        "started_at": "2021-01-03T15:15:24",
+        "defect_id_id": "2298",
+        "status": "request_resolved",
+        "anomaly": false,
+        "adress_id": {
+            "adress": "Дорожная улица, дом 7, корпус 3",
+            "latitude": 55.6007738,
+            "longitude": 37.6230567,
+            "region_id": 621,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415814",
+        "description": "Везде каток. Ходить не возможно!!!",
+        "started_at": "2021-01-01T11:31:53",
+        "defect_id_id": "3391",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 3, корпус 1",
+            "latitude": 55.5755542,
+            "longitude": 37.6450471,
+            "region_id": 607,
+            "district_id": 600
+        }
+    },
+    {
+        "unique_id": "73415874",
+        "description": "Везде каток. Никто не реагирует. Ук не убирает и не обрабатывает реагентом.",
+        "started_at": "2021-01-01T11:33:04",
+        "defect_id_id": "3395",
+        "status": "request_resolved",
+        "anomaly": true,
+        "adress_id": {
+            "adress": "Востряковский проезд, дом 3, корпус 1",
+            "latitude": 55.5755542,
+            "longitude": 37.6450471,
+            "region_id": 607,
+            "district_id": 600
+        }
+    }
+]
